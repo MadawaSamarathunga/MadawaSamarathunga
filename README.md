@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=3000&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+there;I'm+Madawa%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+
 - 🧑🏻‍🎓Studied **BSc(Hons) in Computer Science & Software Engineering at University of Bedfordshire**
 
 - 🎓Studies Master's **(MSc.) in Data Science And Business Aanalytics at University of Plymouth**
